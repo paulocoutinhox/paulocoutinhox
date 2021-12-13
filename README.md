@@ -26,3 +26,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulo-coutinho&" alt="Paulo Coutinho" />
 
 </p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-coutinho&langs_count=8&hide=HTML,CSS,Vue&layout=compact" alt="Paulo Coutinho" />
+
+</p>
