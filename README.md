@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **anything on app development**
 
-- 📫 How to reach me: **paulo@prsolucoes.com**
+- 📫 How to reach me: **paulocoutinhox@gmail.com**
 
 </td><td>
 <h3 align="left"><b>Support</b></h3>
