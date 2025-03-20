@@ -18,7 +18,7 @@
 <h3 align="left"><b>Support</b></h3>
 <a href="https://github.com/sponsors/paulocoutinhox"> <img align="left" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" height="60" alt="Paulo Coutinho" /></a>
 <p>&nbsp;<p>
-<a href="https://ko-fi.com/paulocoutinho"> <img align="left" src="https://az743702.vo.msecnd.net/cdn/kofi1.png?v=2" height="60" alt="Paulo Coutinho" /></a>
+<a href='https://ko-fi.com/A0A412XEV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <p>&nbsp;<p>
 </td></tr></table>
 
@@ -31,6 +31,6 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulocoutinhox&langs_count=8&hide=HTML,CSS,Vue&layout=compact" alt="Paulo Coutinho" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulocoutinhox" alt="Paulo Coutinho" />
 
 </p>
