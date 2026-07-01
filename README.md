@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/paulocoutinhox?tab=repositories](https://github.com/paulocoutinhox?tab=repositories)
 
-- 📝 Check out my website on [https://paulocoutinho.pages.dev/](https://paulocoutinho.pages.dev/)
+- 📝 Check out my website on [https://paulox.dev/](https://paulox.dev/)
 
 - 💬 Ask me about **anything on app development**
 
