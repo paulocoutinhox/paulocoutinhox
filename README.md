@@ -27,11 +27,11 @@
 
 🤖 **AI & Agents** — [IonClaw](https://github.com/ionclaw-org) · [MCP Gateway](https://github.com/mcp-gtw)
 
-⚙️ **C++ & Cross-Platform** — [Nativium](https://github.com/nativium) · [XPLPC](https://github.com/xplpc) · [Varn](https://github.com/varn-org)
+⚙️ **C++ & Cross-Platform** — [Nativium](https://github.com/nativium) · [Varn](https://github.com/varn-org) · [XPLPC](https://github.com/xplpc)
 
-🧩 **Apps & Tools** — [Workpane](https://github.com/workpane) · [Bitchatz](https://github.com/bitchatz) · [PDF Viewer](https://github.com/pdfviewer) · [SQLite Data Browser](https://github.com/sqlitedb) · [WebNFC](https://github.com/webnfc) · [Godot-X](https://github.com/godot-x)
+🧩 **Apps & Tools** — [Bitchatz](https://github.com/bitchatz) · [Godot-X](https://github.com/godot-x) · [PDF Viewer](https://github.com/pdfviewer) · [SQLite Data Browser](https://github.com/sqlitedb) · [WebNFC](https://github.com/webnfc) · [Workpane](https://github.com/workpane)
 
-🏢 **Companies & Products** — [Ubook](https://github.com/ubook-editora) · [WAPPFY](https://github.com/wappfy) · [Naavod](https://github.com/naavod) · [Fast Kit](https://github.com/fast-kit) · [Eddeen](https://github.com/eddeen-org)
+🏢 **Companies & Products** — [Eddeen](https://github.com/eddeen-org) · [Fast Kit](https://github.com/fast-kit) · [Naavod](https://github.com/naavod) · [Ubook](https://github.com/ubook-editora) · [WAPPFY](https://github.com/wappfy)
 
 </td></tr></table>
 
