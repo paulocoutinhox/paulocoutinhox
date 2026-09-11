@@ -21,15 +21,24 @@
 <p>&nbsp;<p>
 </td></tr></table>
 
+<h3 align="center">🏢 Organizations</h3>
+
+<table align="center"><tr><td>
+
+🤖 **AI & Agents** — [OpenBotX](https://github.com/openbotx) · [IonClaw](https://github.com/ionclaw-org) · [MCP Gateway](https://github.com/mcp-gtw)
+
+⚙️ **C++ & Cross-Platform** — [Ezored](https://github.com/ezored) · [Nativium](https://github.com/nativium) · [XPLPC](https://github.com/xplpc) · [Djinni](https://github.com/cross-language-cpp) · [Varn Project](https://github.com/varn-project) · [Varn](https://github.com/varn-org)
+
+🧩 **Apps & Tools** — [Workpane](https://github.com/workpane) · [Bitchatz](https://github.com/bitchatz) · [PDF Viewer](https://github.com/pdfviewer) · [SQLite Data Browser](https://github.com/sqlitedb) · [WebNFC](https://github.com/webnfc) · [Godot-X](https://github.com/godot-x)
+
+🏢 **Companies & Products** — [Ubook](https://github.com/ubook-editora) · [WAPPFY](https://github.com/wappfy) · [Naavod](https://github.com/naavod) · [Umbarato](https://github.com/umbarato) · [OfertaFácil](https://github.com/ofertafacil) · [Fast Kit](https://github.com/fast-kit) · [Eddeen](https://github.com/eddeen-org) · [DEK](https://github.com/dek-org)
+
+📦 **Archive** — [archive-repository](https://github.com/archive-repository)
+
+</td></tr></table>
+
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=paulocoutinhox&show_icons=true&locale=en" alt="Paulo Coutinho" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=paulocoutinhox&" alt="Paulo Coutinho" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulocoutinhox" alt="Paulo Coutinho" />
+<img src="https://streak-stats.demolab.com/?user=paulocoutinhox" alt="Paulo Coutinho" />
 
 </p>
