@@ -33,7 +33,7 @@
 
 🖥️ **Desktop & Tools** — [BitCleanerX](https://github.com/paulocoutinhox/bitcleanerx) ⭐ 30+ · [Android 16KB Validator](https://github.com/paulocoutinhox/android-16kb-validator) · [Workpane](https://github.com/workpane/workpane) · [BackupX](https://github.com/paulocoutinhox/backupx) · [DataXow](https://github.com/paulocoutinhox/dataxow) · [Apple Show](https://github.com/paulocoutinhox/apple-show)
 
-🎮 **Game Development** — [Godot-X](https://github.com/godot-x): [Firebase](https://github.com/godot-x/firebase) ⭐ 30+ · [RevenueCat](https://github.com/godot-x/revenuecat) ⭐ 30+ · [Toast](https://github.com/godot-x/toast) ⭐ 10+ · [SafeAreaX](https://github.com/godot-x/safe-area) · [Native Bridge](https://github.com/godot-x/native-bridge) · [ATT](https://github.com/godot-x/att)
+🎮 **Game Development** — [Godot-X](https://github.com/godot-x) - [Firebase](https://github.com/godot-x/firebase) ⭐ 30+ · [RevenueCat](https://github.com/godot-x/revenuecat) ⭐ 30+ · [Toast](https://github.com/godot-x/toast) ⭐ 10+ · [SafeAreaX](https://github.com/godot-x/safe-area) · [Native Bridge](https://github.com/godot-x/native-bridge) · [ATT](https://github.com/godot-x/att)
 
 </td></tr></table>
 
