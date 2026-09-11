@@ -21,6 +21,22 @@
 <p>&nbsp;<p>
 </td></tr></table>
 
+<h3 align="center">🚀 Projects</h3>
+
+<table align="center"><tr><td>
+
+🧩 **C++ & Cross-Platform** — [PDFium Lib](https://github.com/paulocoutinhox/pdfium-lib) ⭐ 1000+ · [Bitchatz](https://github.com/bitchatz/bitchatz-cpp) ⭐ 80+ · [Nativium](https://nativium.github.io/) ⭐ 60+ · [XPLPC](https://github.com/xplpc/xplpc) ⭐ 40+ · [CEF Sample](https://github.com/paulocoutinhox/cef-sample) ⭐ 40+ · [Varn](https://github.com/varn-org/varn) · [Safe C++](https://github.com/paulocoutinhox/safe-cpp) · [Audio CaptureX](https://github.com/paulocoutinhox/audio-capturex)
+
+🤖 **AI & Agents** — [IonClaw](https://github.com/ionclaw-org/ionclaw) ⭐ 80+ · [Mini LLM](https://github.com/paulocoutinhox/mini-llm) ⭐ 30+ · [Audio Studio AI](https://github.com/paulocoutinhox/audio-studio-ai) ⭐ 30+ · [MCP Gateway](https://github.com/mcp-gtw/mcp-gtw) · [PyeClaw](https://github.com/paulocoutinhox/pyeclaw)
+
+🐍 **Python & Web** — [PyAA](https://github.com/paulocoutinhox/pyaa) ⭐ 100+ · [FastAPI App](https://github.com/paulocoutinhox/fastapi-app) ⭐ 70+ · [Kaktos](https://github.com/paulocoutinhox/kaktos) ⭐ 20+ · [FastKit](https://github.com/paulocoutinhox/fastkit) · [Queuefy](https://github.com/paulocoutinhox/queuefy) · [Cachefy](https://github.com/paulocoutinhox/cachefy)
+
+🖥️ **Desktop & Tools** — [BitCleanerX](https://github.com/paulocoutinhox/bitcleanerx) ⭐ 30+ · [Android 16KB Validator](https://github.com/paulocoutinhox/android-16kb-validator) · [Workpane](https://github.com/workpane/workpane) · [BackupX](https://github.com/paulocoutinhox/backupx) · [DataXow](https://github.com/paulocoutinhox/dataxow) · [Apple Show](https://github.com/paulocoutinhox/apple-show)
+
+🎮 **Game Development** — [Godot-X](https://github.com/godot-x): [Firebase](https://github.com/godot-x/firebase) ⭐ 30+ · [RevenueCat](https://github.com/godot-x/revenuecat) ⭐ 30+ · [Toast](https://github.com/godot-x/toast) ⭐ 10+ · [SafeAreaX](https://github.com/godot-x/safe-area) · [Native Bridge](https://github.com/godot-x/native-bridge) · [ATT](https://github.com/godot-x/att)
+
+</td></tr></table>
+
 <h3 align="center">🏢 Organizations</h3>
 
 <table align="center"><tr><td>
